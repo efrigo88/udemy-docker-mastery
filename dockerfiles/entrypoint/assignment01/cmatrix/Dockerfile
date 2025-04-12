@@ -4,4 +4,4 @@ RUN apk add --no-cache cmatrix
 
 ENTRYPOINT ["cmatrix"]
 
-CMD ["-abs", "-C", "yellow"]
+CMD ["-abs", "-C", "red"]
