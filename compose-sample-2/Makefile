@@ -9,6 +9,9 @@ down:
 build:
 	@docker compose build
 
+up-build:
+	@docker compose up -d --build
+
 rebuild:
 	@docker compose down
 	@docker compose build
