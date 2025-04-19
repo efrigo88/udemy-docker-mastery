@@ -154,6 +154,5 @@ $RECYCLE.BIN/
 # reference pdf's
 references/*.pdf
 
-# .cursor folder and its contents
+# Cursor IDE
 .cursor/
-.cursor/*
